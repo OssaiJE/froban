@@ -9,7 +9,7 @@ const App = () => {
       <Header />
       <main>
           <Container>
-        <h1>Welcome to Froban stores</h1>
+        <h1>Welcome to Froban stores!</h1>
         </Container>
       </main>
       <Footer />
