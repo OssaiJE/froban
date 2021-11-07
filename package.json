@@ -1,0 +1,25 @@
+{
+  "name": "froban",
+  "version": "1.0.4",
+  "description": "An ecommerce platform that connects buyers and sellers around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "froban"
+  },
+  "keywords": [
+    "node.js",
+    "react.js",
+    "express.js",
+    "mongodb",
+    "ecommerce",
+    "mern",
+    "stack",
+    "javascript"
+  ],
+  "author": "Julius Ossai",
+  "license": "MIT"
+}
